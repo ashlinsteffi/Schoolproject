@@ -7,8 +7,15 @@ public class School {
 		System.out.println(a);
 		int b=20;
 		System.out.println(b);
+		float f=1.23f;
+		System.out.println(f);
 		int c=30;
 		System.out.println(c);
+
+				
+
+		
+
 	}
 
 }
