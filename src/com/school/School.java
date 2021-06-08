@@ -5,6 +5,8 @@ public class School {
 		System.out.println("School");
 		int a=50;
 		System.out.println(a);
+		int b=20;
+		System.out.println(b);
 	}
 
 }
